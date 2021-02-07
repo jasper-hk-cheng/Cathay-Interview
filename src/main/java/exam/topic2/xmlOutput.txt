@@ -1,0 +1,14 @@
+<note>
+   <to>YOU</to>
+   <from>ME</from>
+   <heading>Hello</heading>
+   <body>Hello World</body>
+   <attachs class="java.util.ArrayList">
+      <attach>
+         <name></name>
+         <content></content>
+      </attach>
+      <attach/>
+      <attach/>
+   </attachs>
+</note>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exam.Topic4" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-06T15:55:29" hostname="DESKTOP-0G8L5HU" time="0.003">
+  <properties/>
+  <testcase name="testTopic4" classname="exam.Topic4" time="0.003"/>
+  <system-out><![CDATA[the target word: 威
+is is Big5
+the target word: 燰
+is is Big5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

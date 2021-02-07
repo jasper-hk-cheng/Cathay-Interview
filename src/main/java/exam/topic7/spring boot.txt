@@ -1,0 +1,10 @@
+
+試說明你了解的 Spring Boot
+
+Ans:
+1. 以spring為基底的新框架。
+2. 封裝原本spring複雜的xml設定，以預設的設定值取代手動設定，簡化環境設定過程。
+3. 整合tomcat以及hibernate(JPA)
+4. 原 spring MVC 框架仍可在其中使用，但有更簡潔的 Annotation 可供設定，如 @RestController = @Controller + @ResponseBody
+5. 官方推薦使用 Thymeleaf 作為樣板引擎，但不強制規定一定要用；原 Jsp 或其他如 Freemarker 亦可使用。
+6. Thymeleaf 的一大特色為"其本身就是合法的靜態網頁(html檔)"，可直接使用瀏覽器觀看雛形樣貌。
